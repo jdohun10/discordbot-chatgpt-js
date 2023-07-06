@@ -65,5 +65,6 @@ client.on("messageCreate", async function (message) {
     }
 });
 
-discordLogin();
+client.login('MTEyMTA3NDIzODI2NzMzODg2Mg.GmnCZt.JFROf-fHhI7914hUoTnUtrcgMJQAwlFZ6cFu6w');
+
 
